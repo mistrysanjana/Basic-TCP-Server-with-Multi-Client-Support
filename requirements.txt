@@ -1,0 +1,13 @@
+# =============================================================================
+# Requirements for Basic TCP Server with Multi-Client Support
+# =============================================================================
+# This project is built entirely using the Python Standard Library:
+#   - socket     (Low-level networking and TCP socket interface)
+#   - threading  (Thread-based parallelism for concurrent client handling)
+#   - sys        (System-specific parameters and exit routines)
+#   - time       (Timing utilities for tests and logging)
+#   - subprocess (Used exclusively in test_suite.py)
+#
+# No external third-party dependencies (e.g. Django, Flask, Twisted) are required!
+# You only need Python 3.8+ installed on your system.
+# =============================================================================
