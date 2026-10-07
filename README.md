@@ -147,7 +147,7 @@ You only need Python 3 installed on your computer.
 2. **Navigate to Project Directory**:
 
    ```bash
-   cd "C:\Users\Aman kumar\.gemini\antigravity\scratch\Basic-TCP-MultiClient-Server"
+   cd "cd "Basic TCP Server with Multi-Client Support""
    ```
 
 3. **Check Dependencies**:
